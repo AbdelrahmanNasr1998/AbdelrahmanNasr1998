@@ -1,4 +1,13 @@
-### Hi there 👋
+![alt text](https://media-exp1.licdn.com/dms/image/C5616AQE91RXYI4RRBA/profile-displaybackgroundimage-shrink_350_1400/0/1626771332252?e=1634774400&v=beta&t=I6Re6Zl4k3jxwcDW6xJ8EIWQSduHzRiPBpc4xnzmUZ8)
+
+### Hi there, I'm Abdelrahman Nasr 👋
+Penetration Tester | Python Developer<br>
+
+BACHELOR OF COMPUTER SCIENCE & INFORMATION<br>
+Computer Science Department, Nahda University in Beni Suef, NUB.<br>
+
+Resume: https://root-x.dev/Abdelrahman-Nasr/<br>
+Linkedin: https://www.linkedin.com/in/a-nasr1998/
 
 <!--
 **AbdelrahmanNasr1998/AbdelrahmanNasr1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
