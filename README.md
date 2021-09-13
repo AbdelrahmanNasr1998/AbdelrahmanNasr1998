@@ -1,4 +1,4 @@
-![alt text](https://media-exp1.licdn.com/dms/image/C5616AQE91RXYI4RRBA/profile-displaybackgroundimage-shrink_350_1400/0/1626771332252?e=1634774400&v=beta&t=I6Re6Zl4k3jxwcDW6xJ8EIWQSduHzRiPBpc4xnzmUZ8)
+![alt text](https://media-exp1.licdn.com/dms/image/C4D16AQHs4dtwIhrOzw/profile-displaybackgroundimage-shrink_200_800/0/1631495163997?e=1637193600&v=beta&t=G7as225-dErkNQgFulyO15iXPKb_LeNChbXtdRYyEP4)
 
 ### Hi there, I'm Abdelrahman Nasr 👋
 Penetration Tester | Python Developer<br>
