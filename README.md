@@ -3,7 +3,7 @@
 ### Hi there, I'm Abdelrahman Nasr 👋
 Penetration Tester | Python Developer<br>
 
-BACHELOR OF COMPUTER SCIENCE & INFORMATION<br>
+BACHELOR OF COMPUTER SCIENCE & INFORMATION.<br>
 Computer Science Department, Nahda University in Beni Suef, NUB.<br>
 
 Resume: https://root-x.dev/Abdelrahman-Nasr/<br>
