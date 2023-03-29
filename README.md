@@ -2,9 +2,7 @@
 <h3 align="center">Penetration Tester & Python Developer</h3>
 
 <span align="left">
-<a href="https://www.linkedin.com/in/a-nasr1998/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="a-nasr1998" /></a>
-  
-<a href="https://twitter.com/mrduplicated" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mrduplicated" /></a>
+<a href="https://www.linkedin.com/in/a-nasr1998/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="a-nasr1998" /></a><a href="https://twitter.com/mrduplicated" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mrduplicated" /></a>
 </span>
 
 
